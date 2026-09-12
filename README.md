@@ -9,4 +9,4 @@
 - `RELATORIA TECNICA.pdf` - Relatoría técnica
 
 ## Video de evidencia
-[(https://youtu.be/QUSIZU_Itvo)]
+([https://youtu.be/6KGz8ReJMes)]
